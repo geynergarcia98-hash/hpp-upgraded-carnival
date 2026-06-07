@@ -1,2 +1,2 @@
 # hpp-upgraded-carnival
-No..descripción todo se basara en saver y tener confianza  
+Proyecto dedicado a mejorar y expandir las capacidades del carnaval HPP con nuevas funcionalidades y optimizaciones.
